@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @LukeFord22
-- 👀 I’m interested in Blockchain 
-- 🌱 I’m currently learning how to deploy smart contracts
-- 💞️ I’m looking to collaborate with anyone who needs help
 - 📫 How to reach me lhford1213@gmail.com
 
 <!---
